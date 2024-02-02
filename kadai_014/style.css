@@ -1,13 +1,23 @@
+<<<<<<< HEAD
 html {
   font-size: 20px;
 }
 body {
   font-family: "Arial", "Meiryo", sans-serif;
+=======
+body {
+  font-family: "Arial", "Meiryo", sans-serif;
+  font-size: 20px;
+>>>>>>> 147e66a6122613d404d8e9b8d6730d8e265e3295
   text-align: center;
 }
 .h1-fonts {
   font-family: 'Josefin Sans', sans-serif;
+<<<<<<< HEAD
   font-size: 2rem;
+=======
+  font-size: 40px;
+>>>>>>> 147e66a6122613d404d8e9b8d6730d8e265e3295
   letter-spacing: 1.2em;
   text-shadow: 3px 3px 6px skyblue;
   border-bottom: solid 3px; color: rgb(115, 115, 114);
